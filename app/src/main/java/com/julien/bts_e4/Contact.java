@@ -36,7 +36,11 @@ public class Contact extends Fragment {
                 "jose.santiago42400@gmail.com",
                 "jordanjayol42@gmail.com",
                 "kelignoel42@gmail.com",
-                "jimmyseux@gmail.com"
+                "jimmyseux@gmail.com",
+                "chloe.bouet42@gmail.com",
+                "fanny.lartaud42@gmail.com",
+                "batotanaomi@gmail.com",
+                "sarah.galichon@gmail.com",
         };
 
         ListView lv = (ListView) view.findViewById(R.id.listView2);
